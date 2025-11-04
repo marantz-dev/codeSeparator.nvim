@@ -7,6 +7,8 @@ Simple, dependency‑free Neovim plugin to insert readable, commented separators
 
 It automatically uses the current buffer's `commentstring`, so the separators match the language's comment style.
 
+https://github.com/user-attachments/assets/81fe245b-01ea-4006-b847-60e9685c3fce
+
 ## Features
 
 - `:BoxSeparator` – prompts for text and inserts a 5‑line commented box
