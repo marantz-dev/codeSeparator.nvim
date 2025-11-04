@@ -7,11 +7,6 @@ Simple, dependency‑free Neovim plugin to insert readable, commented separators
 
 It automatically uses the current buffer's `commentstring`, so the separators match the language's comment style.
 
-<video width="400" controls>
-  <source src="demo.mov" type="video/mov">
-  Your browser does not support the video tag.
-</video>
-
 ## Features
 
 - `:BoxSeparator` – prompts for text and inserts a 5‑line commented box
